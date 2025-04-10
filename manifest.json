@@ -1,0 +1,7 @@
+{
+  "name": "Fuchsia",
+  "version": "1.0.0",
+  "minAppVersion": "0.16.0",
+  "author": "kegashe",
+  "authorUrl": "https://gitlab.com/kegashe"
+}
